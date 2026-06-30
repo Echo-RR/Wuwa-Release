@@ -3,15 +3,15 @@
 Official public download page for the WUWA Launcher on Windows.
 
 <p align="center">
-  <a href="https://github.com/Echo-RR/Wuwa-Release/releases/latest/download/WUWA%20Launcher.exe">
+  <a href="https://github.com/Echo-RR/Wuwa-Release/releases/download/public-latest/WUWA%20Launcher.exe">
     <img alt="Download WUWA Launcher" src="https://img.shields.io/badge/Download-WUWA%20Launcher-2ea44f?style=for-the-badge&logo=github">
   </a>
-  <img alt="WUWA Launcher downloads" src="https://img.shields.io/github/downloads/Echo-RR/Wuwa-Release/latest/WUWA%20Launcher.exe?style=for-the-badge&label=Downloads">
+  <img alt="WUWA Launcher downloads" src="https://img.shields.io/github/downloads/Echo-RR/Wuwa-Release/public-latest/total?style=for-the-badge&label=Downloads">
 </p>
 
 ## Download
 
-[**Download WUWA Launcher.exe**](https://github.com/Echo-RR/Wuwa-Release/releases/latest/download/WUWA%20Launcher.exe)
+[**Download WUWA Launcher.exe**](https://github.com/Echo-RR/Wuwa-Release/releases/download/public-latest/WUWA%20Launcher.exe)
 
 Always download the latest build from the button above. Older files from
 previous commits or unofficial mirrors are unsupported.
