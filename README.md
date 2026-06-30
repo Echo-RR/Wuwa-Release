@@ -6,12 +6,12 @@ Official public download page for the WUWA Launcher on Windows.
   <a href="https://github.com/Echo-RR/Wuwa-Release/releases/download/public-latest/WUWA.Launcher.exe">
     <img alt="Download WUWA Launcher" src="https://img.shields.io/badge/Download-WUWA%20Launcher-2ea44f?style=for-the-badge&logo=github">
   </a>
-  <img alt="WUWA Launcher downloads" src="https://img.shields.io/github/downloads/Echo-RR/Wuwa-Release/public-latest/WUWA.Launcher.exe?style=for-the-badge&label=Downloads&cacheSeconds=300">
+  <img alt="WUWA Launcher downloads" src="https://img.shields.io/github/downloads/Echo-RR/Wuwa-Release/public-latest/total?style=for-the-badge&label=Downloads">
 </p>
 
 ## Download
 
-[**Download WUWA Launcher.exe**](https://github.com/Echo-RR/Wuwa-Release/releases/download/public-latest/WUWA.Launcher.exe)
+[**Download**](https://github.com/Echo-RR/Wuwa-Release/releases/download/public-latest/WUWA%20Launcher.exe)
 
 Always download the latest build from the button above. Older files from
 previous commits or unofficial mirrors are unsupported.
@@ -266,7 +266,7 @@ The mod menu is accessible in-game use alt + x to access the menu. Features :
 
 ## Getting Started
 
-1. Download `WUWA.Launcher.exe`.
+1. Download `WUWA Launcher.exe`.
 2. Place it in a folder where your Windows account can write files.
 3. Run the launcher and follow the on-screen instructions.
 4. If Windows displays a security prompt, confirm that the file came from this
