@@ -1,5 +1,4 @@
 # Launcher binaries are published as GitHub Release assets, not git commits.
-*.exe
 *.dll
 *.zip
 *.7z
