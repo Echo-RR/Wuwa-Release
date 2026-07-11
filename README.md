@@ -296,6 +296,17 @@ Only download updates from this repository or the official support channel.
 
 ## Troubleshooting
 
+### NVIDIA graphics compatibility
+
+If the game becomes white, black, invisible, or freezes after launching, open
+**NVIDIA App -> Graphics -> Program Settings -> Wuthering Waves**, then set:
+
+- **Smooth Motion:** Off
+- **Low Latency Mode:** Off
+
+Restart the game after applying the changes. NVIDIA Overlay can remain enabled.
+Use a per-program profile so other games keep their preferred global settings.
+
 When requesting support, include:
 
 - Windows version
