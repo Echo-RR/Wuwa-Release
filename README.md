@@ -6,7 +6,6 @@ Official public download page for the WUWA Launcher on Windows.
   <a href="https://github.com/Echo-RR/Wuwa-Release/releases/download/public-latest/WUWA_Launcher.exe">
     <img alt="Download WUWA Launcher" src="https://img.shields.io/badge/Download-WUWA%20Launcher-2ea44f?style=for-the-badge&logo=github">
   </a>
-  <img alt="WUWA Launcher downloads" src="https://img.shields.io/github/downloads/Echo-RR/Wuwa-Release/public-latest/WUWA_Launcher.exe?style=for-the-badge&label=Downloads&cacheSeconds=300">
 </p>
 
 ## Download
