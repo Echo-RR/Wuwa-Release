@@ -286,6 +286,16 @@ channel.
 - Supported Wuthering Waves installation
 - Permission to run the launcher and write files in its folder
 
+### Microsoft Visual C++ Runtime
+
+Install or repair the current **Microsoft Visual C++ 2015-2022 Redistributable
+(x64)** before launching. The launcher requires this Windows runtime. If
+Windows reports an error involving `MSVCP140.dll` or `VCRUNTIME140.dll`, install
+or repair the official x64 redistributable, restart Windows if requested, and
+run the launcher again:
+
+<https://aka.ms/vs/17/release/vc_redist.x64.exe>
+
 ## Updates
 
 The launcher checks for a newer public version when it starts. Keep the
